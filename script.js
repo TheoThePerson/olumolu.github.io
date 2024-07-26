@@ -97,7 +97,7 @@ const responses = {
   'dudu': 'It is a round object which is used for hand exercise by pressing that object',
   'what is your name': 'I don\'t have a name, it is a basic preprogrammed chatbot',
   'goodbye': 'See you later!',
-  'thanks': 'You\'re welcome!',
+  'thanks': 'You're welcome!',
   'hey': 'Yes please',
   'what is your favorite color': 'I don\'t have personal preferences, but I can tell you about popular colors!',
   'where are you from': 'I exist on the internet, so I don\'t have a physical location.',
